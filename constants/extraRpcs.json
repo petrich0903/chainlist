@@ -169,7 +169,7 @@
         "rpcs": [
             "https://cronos-rpc.heavenswail.one/",
             "https://evm.cronos.org",
-            "https://cronosrpc-1.xstaking.sg/",
+            "https://cronosrpc.xstaking.sg/",
             "https://cronos-rpc.elk.finance/"
         ]
     },
